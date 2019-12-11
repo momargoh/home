@@ -1,0 +1,10 @@
+{
+    "title": "Visual Studio Code - settings.json",
+    "workbench.colorTheme": "Kimbie Dark",
+    "files.associations": {
+        "*.pyx": "python",
+        "*.pxd": "python",
+        "*.jsx": "javascript",
+    },
+    "editor.fontSize": 16
+}
